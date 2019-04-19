@@ -9,3 +9,4 @@
 10/04:Réflexion sur le contrôle du Drone avec DenisMELIKHOV, puis réflexion sur comment améliorer le PowerPoint avec JustinDITER.
 12/04:Réflexion sur comment alimenter le socle de chargment, et surtouut travail sur l'oral de la présentation.
 15/04:COURS Présentation, réception du matériel, et première réflexion sur l'adaptation de la batterie en chargement sans fil.
+18/04:Travail sur la modélisation 3D de tunnel dans le socle pour les cables.
