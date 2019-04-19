@@ -19,3 +19,5 @@
 15/04:COURS Présentation, réception du matériel, et première réflexion sur l'adaptation de la batterie en chargement sans fil.
 
 18/04:Travail sur la modélisation 3D de tunnel dans le socle pour les cables.
+
+19/04:Test du drone et de sa configuration par python, plusieurs vols de test, test du module de chargement et  de son fonctionnement.
