@@ -10,7 +10,7 @@
 
 05/04:COURS Réfléxion sur la charge à induction et recherche de pièce, commande des pièces choisis avec le groupe.
 
-06/04:Création du PowerPoint avec les autres par internet.
+06/04:Modification du PowerPoint avec les autres par internet.
 
 10/04:Réflexion sur le contrôle du Drone avec DenisMELIKHOV, puis réflexion sur comment améliorer le PowerPoint avec JustinDITER.
 
