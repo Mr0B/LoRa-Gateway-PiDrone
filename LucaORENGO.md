@@ -20,4 +20,8 @@
 
 18/04:Travail sur la modélisation 3D de tunnel dans le socle pour les cables.
 
-19/04:Test du drone et de sa configuration par python, plusieurs vols de test, test du module de chargement et  de son fonctionnement.
+19/04:Test du drone et de sa configuration par python, plusieurs vols de test, test de la borne de chargement et  de son fonctionnement.
+
+24/04:Finalisation du design de la pièce imprimer en 3d, servant à recevoir la bobine de charge sans fil.
+
+25/05:Vérification de l'avancement du projet avec le groupe, test des commandes prédéfinis du drone pour le vol stationnaire de longue durée avec DenisMELIKHOV.
