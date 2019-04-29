@@ -25,3 +25,5 @@
 24/04:Finalisation du design de la pièce imprimer en 3d, servant à recevoir la bobine de charge sans fil.
 
 25/05:Vérification de l'avancement du projet avec le groupe, test des commandes prédéfinis du drone pour le vol stationnaire de longue durée avec DenisMELIKHOV.
+
+26/05:travail sur la charge sans fil, test des deux modules, ils marchent tous les deux. Aides des autres sur leur partie.
