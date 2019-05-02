@@ -15,23 +15,33 @@ Nous avons clarifier les projet en groupe:
 
 -Attribue les tâches (Charge à induction pour moi)
 
-J'ai commencé à réflechir sur comment convertir labatterie du drone en une batterie rechargeable par induction.
+J'ai commencé à réflechir sur comment convertir la batterie du drone en une batterie rechargeable par induction.
 
-01/04:Avancement sur l'organisation du GitHub. On a planifier l'organisation de la présentation avec JustinDITER.
+# 01/04:
+J'ai commencé à me renseigner sur l'organisation d'un GitHub et commencé à organiser le nôtre. 
+On a ensuite planifier l'organisation de la présentation avec Justin Diter.
 
-05/04:COURS Réfléxion sur la charge à induction et recherche de pièce, commande des pièces choisis avec le groupe.
+# 05/04 COURS:
+Après réflexion j'ai abbandonné définitivement l'idée de crée nos bobines à induction, à cause d'une erreur de communication, j'ai du rechercher un autre module de recharge sans fil, et dans l'impossibilité d'en retrouver un parfaitement adapté, nous nous sommes rabattu sur un modèle 5V1A (car cela affectera uniquement la vitesse de recharge).
+Nous avons ensuite commandé les pièces choisis avec le groupe.
 
-06/04:Modification du PowerPoint avec les autres par internet.
+# 06/04:
+Par internet (Discord) nous avons modifié la présentation, et commencer à réfléchir à notre oral et à ce que chaque partie voulait/devait dire.
 
-10/04:Réflexion sur le contrôle du Drone avec DenisMELIKHOV, puis réflexion sur comment améliorer le PowerPoint avec JustinDITER.
+# 10/04:
+Nous avons réflechi sur quel moyen utiliser pour programmer/contrôler le drône, puis après le départ de Denis nous avons réflechi avec Justin sur comment améliorer notre présentation de Mi-Projet.
 
-12/04:Réflexion sur comment alimenter le socle de chargment, et surtout travail sur l'oral de la présentation.
+# 12/04:
+J'ai réfléchi sur comment alimenter le socle de rechargement (idée d'utiliser un "vieux" chargeur de téléphone), et nous avons travailler sur l'oral de notre présentation.
 
-15/04:COURS Présentation, réception du matériel, et première réflexion sur l'adaptation de la batterie en chargement sans fil.
+# 15/04 COURS:
+Présentaion de Mi-Projet devant la classe, nous avons ensuite receptionner nos commandes effectué les premiers tests, et j'ai ensuite énormément réflechi sur comment faire les modifications de la charge sans fil, avec la charge à 4 pins utiliser par notre drône.
 
-18/04:Travail sur la modélisation 3D de tunnel dans le socle pour les cables.
+# 18/04:
+J'ai travaillé sur la modélisation 3D de tunnel dans le socle pour faire passer les cables.
 
-19/04:COURS Test du drone et de sa configuration par python, plusieurs vols de test, test de la borne de chargement et  de son fonctionnement.
+# 19/04 COURS:
+Nous avons tester le drône ainsi que sa configuration par Python (choisi par Denis pour la programmation), plusieurs vols de test, test de la borne de chargement et  de son fonctionnement.
 
 24/04:Finalisation du design de la pièce imprimer en 3d, servant à recevoir la bobine de charge sans fil.
 
