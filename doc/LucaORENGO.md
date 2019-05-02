@@ -1,13 +1,14 @@
-11/03 # COURS:
+# 11/03 COURS:
 Nous avons réfléchi à notre projet et discuté de sa faisabilité avec les professeurs.
 
-15/03: Longue réflexion en groupe sur notre projet, sa difficulté, etc. Nous avons changé d'idée pour s'orinter plus vers notre projet actuel: LoRa-Gateway-PiDRone, nous avons envoyé nos nouvelles idées aux professeurs par mail.
+# 15/03: 
+Longue réflexion en groupe sur notre projet, sa difficulté, etc. Nous avons changé d'idée pour s'orinter plus vers notre projet actuel: LoRa-Gateway-PiDRone, nous avons envoyé nos nouvelles idées aux professeurs par mail.
 
-25/03 # COURS:
+# 25/03 COURS:
 Présentation de GitHub par nos professeurs, nous nous sommes ensuite inscrit sur GitHub. 
 Ensuite on nous a présenter TinkerCad, et nous avons modéliser une médaille en 3D.
 
-29/03 # COURS:
+# 29/03 COURS:
 Nous avons clarifier les projet en groupe:
 -Etablie la limite de charge utile du drône
 -Attribue les tâches (Charge à induction pour moi)
