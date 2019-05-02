@@ -10,8 +10,11 @@ Ensuite on nous a présenter TinkerCad, et nous avons modéliser une médaille e
 
 # 29/03 COURS:
 Nous avons clarifier les projet en groupe:
+
 -Etablie la limite de charge utile du drône
+
 -Attribue les tâches (Charge à induction pour moi)
+
 J'ai commencé à réflechir sur comment convertir labatterie du drone en une batterie rechargeable par induction.
 
 01/04:Avancement sur l'organisation du GitHub. On a planifier l'organisation de la présentation avec JustinDITER.
