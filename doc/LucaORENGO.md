@@ -11,7 +11,7 @@ Ensuite on nous a présenter TinkerCad, et nous avons modéliser une médaille e
 # 29/03 COURS:
 Nous avons clarifier les projet en groupe:
 
--Etablie la limite de charge utile du drône
+-Etablie la limite de charge utile du drone
 
 -Attribue les tâches (Charge à induction pour moi)
 
@@ -29,24 +29,28 @@ Nous avons ensuite commandé les pièces choisis avec le groupe.
 Par internet (Discord) nous avons modifié la présentation, et commencer à réfléchir à notre oral et à ce que chaque partie voulait/devait dire.
 
 # 10/04:
-Nous avons réflechi sur quel moyen utiliser pour programmer/contrôler le drône, puis après le départ de Denis nous avons réflechi avec Justin sur comment améliorer notre présentation de Mi-Projet.
+Nous avons réflechi sur quel moyen utiliser pour programmer/contrôler le drone, puis après le départ de Denis Melikhov nous avons réflechi avec Justin sur comment améliorer notre présentation de Mi-Projet.
 
 # 12/04:
 J'ai réfléchi sur comment alimenter le socle de rechargement (idée d'utiliser un "vieux" chargeur de téléphone), et nous avons travailler sur l'oral de notre présentation.
 
 # 15/04 COURS:
-Présentaion de Mi-Projet devant la classe, nous avons ensuite receptionner nos commandes effectué les premiers tests, et j'ai ensuite énormément réflechi sur comment faire les modifications de la charge sans fil, avec la charge à 4 pins utiliser par notre drône.
+Présentaion de Mi-Projet devant la classe, nous avons ensuite receptionner nos commandes effectué les premiers tests, et j'ai ensuite énormément réflechi sur comment faire les modifications de la charge sans fil, avec la charge à 4 pins utiliser par notre drone.
 
 # 18/04:
 J'ai travaillé sur la modélisation 3D de tunnel dans le socle pour faire passer les cables.
 
 # 19/04 COURS:
-Nous avons tester le drône ainsi que sa configuration par Python (choisi par Denis pour la programmation), plusieurs vols de test, test de la borne de chargement et  de son fonctionnement.
+Nous avons tester le drône ainsi que sa configuration par Python (choisi par Denis pour la programmation), nous avons effectué les premiers vols de tests avec le drone, j'ai ensuite tester au multimètre la borne de chargement pour essayer de définir son comportement 
 
-24/04:Finalisation du design de la pièce imprimer en 3d, servant à recevoir la bobine de charge sans fil.
+# 24/04:
+J'ai finaliser le design de la pièce pour l'imprimer en 3D, j'ai ensuite vérifier qu'elle puisse acceuillir la borne de recharge.
 
-25/05:Vérification de l'avancement du projet avec le groupe, test des commandes prédéfinis du drone pour le vol stationnaire de longue durée avec DenisMELIKHOV.
+# 25/05:
+VNous avons vérifier l'avancement du projet avec le groupe, puis avec Denis nous avons tester les commandes prédéfinis du drone et leur comportement.
 
-26/05:COURS Travail sur la charge sans fil, test des deux modules, ils marchent tous les deux. Aides des autres sur leur partie.
+# 26/05 COURS:
+J'ai travailler sur la charge sans fil, tester électriquement les diiférents modules, celui de test fournis par le prof fonctionne, ainsi que celui nécessaire pour le drone. j'ai ensuite conseillé les autres sur leurs parties.
 
-29/05:COURS Démontage du Drone, et réflexion sur comment cabler les différentes partie entre eux, apparition de plusieurs difficultés, impossibilité de retirer le module photo sans faire un découpe, réflexion sur ou creusé dans la coque pour faire passer les cables sans génée tout le reste. (arrivé de Denis à 14h30 avec le drone, du coup nous sommes resté jusqu'à 16h pour compenser)
+# 29/05 COURS:
+Réception de la dernière pièce, l'antennne pour la Gateway, premier démontage du drone et j'ai ensuite réfléchis sur comment cabler les différentes partie entre elles, plusieurs difficultés sont apparus, ma première idée était de retirer le module caméra pour câbler dans l'espace que ça aurait laisser, mais retirer ce module est impossible sans le découper. J'ai donc réfléchi sur comment creuser la coque pour faire passer mes câbles sans géné tout le reste. (arrivé de Denis à 14h30 avec le drone, du coup nous sommes resté jusqu'à 16h pour compenser)
