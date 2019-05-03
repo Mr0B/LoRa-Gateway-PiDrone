@@ -10,7 +10,7 @@ Après avoir cherché pendant un moment, j'ai trouvé le github par [things4u - 
 
 (*NB: dans le fichier ESP-sc-gway.h il faut entrer le SSID et mot de passe du réseau wifi qu'on utilise dans le deuxième pair de guillemets)
 
-![Screencap of the code](https://imgur.com/a/mOP9O7Y)
+![Capture écran du code:](https://imgur.com/a/mOP9O7Y)
 
 ### Difficultés rencontrés :
 
