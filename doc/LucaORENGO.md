@@ -46,11 +46,11 @@ Nous avons tester le drône ainsi que sa configuration par Python (choisi par De
 # 24/04:
 J'ai finaliser le design de la pièce pour l'imprimer en 3D, j'ai ensuite vérifier qu'elle puisse acceuillir la borne de recharge.
 
-# 25/05:
+# 25/04:
 VNous avons vérifier l'avancement du projet avec le groupe, puis avec Denis nous avons tester les commandes prédéfinis du drone et leur comportement.
 
-# 26/05 COURS:
+# 26/04 COURS:
 J'ai travailler sur la charge sans fil, tester électriquement les diiférents modules, celui de test fournis par le prof fonctionne, ainsi que celui nécessaire pour le drone. j'ai ensuite conseillé les autres sur leurs parties.
 
-# 29/05 COURS:
+# 29/04 COURS:
 Réception de la dernière pièce, l'antennne pour la Gateway, premier démontage du drone et j'ai ensuite réfléchis sur comment cabler les différentes partie entre elles, plusieurs difficultés sont apparus, ma première idée était de retirer le module caméra pour câbler dans l'espace que ça aurait laisser, mais retirer ce module est impossible sans le découper. J'ai donc réfléchi sur comment creuser la coque pour faire passer mes câbles sans géné tout le reste. (arrivé de Denis à 14h30 avec le drone, du coup nous sommes resté jusqu'à 16h pour compenser)
