@@ -7,7 +7,7 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licens
 Le projet que nous réalisons est un Drone pouvant se déplacer automatiquement à partir d'un code (python) disposant d'une carte ESP32 utilisant le protocole de communication LoRa. Il doit aussi posséder la technologie de recharge sans fil (wireless charging).
 
 # Matériel:
-- Wireless Charging Module 5V/1A
+- Wireless Charging Module 5V/1A-DFRobot
 - Drone Ryze Tello (DJI) full pack avec chargeur,3 batteries et cable mini-usb
 - SX1276 ESP32 TTGO board
 - Socle imprimé en 3D pour le module de la charge sans fil.
