@@ -6,4 +6,4 @@ Pour faire d'un drone une gateway LoRa mobile, il faut bien sûr une gateway qui
 
 ### Mise en place de la gateway:
 
-Pour la mise en place de la gateway, je me suis servi principalement du github par [things4u - ESP-1ch-Gateway-v5.0](https://github.com/things4u/ESP-1ch-Gateway-v5.0), et les tutoriels ([1](https://learn.sparkfun.com/tutorials/esp32-lora-1-ch-gateway-lorawan-and-the-things-network/all) et [2](https://www.hackster.io/Arn/single-channel-ttn-lora-gateway-and-nodes-with-esp32-sx1276-709612))
+Après avoir cherché pendant un moment, j'ai trouvé le github par [things4u - ESP-1ch-Gateway-v5.0](https://github.com/things4u/ESP-1ch-Gateway-v5.0), et les tutoriels ([1](https://learn.sparkfun.com/tutorials/esp32-lora-1-ch-gateway-lorawan-and-the-things-network/all) et [2](https://www.hackster.io/Arn/single-channel-ttn-lora-gateway-and-nodes-with-esp32-sx1276-709612)). Ceux-ci m'ont permis d'avoir les fichiers nécessaires pour programmer notre carte, avec quelques modifications nécessaires. 
