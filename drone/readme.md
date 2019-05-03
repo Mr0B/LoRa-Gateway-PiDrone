@@ -40,4 +40,5 @@ Au final, j'avais trouvé exactement le code qu'on recherchait permettant simple
 La deuxième difficulté rencontrée été le fait que le SDK avait certaines limites, comme par exemple une hauteur maximale de vol et il ne pouvait pas rester plusieurs minutes à exactement la même position en hauteur, soit maximum 17 secondes environ.
 Pour contourner cela, il a fallut modifier les commandes pour permettre de rester plusieurs minutes, pour cela, il a fallu d'abord envoyer le drone a une position puis répéter plusieurs commandes à la fois, c'est à dire le faire monter tout le temps de 1cm puis de redescendre de 1cm, ce qui au final ne pouvait même pas se remarquer à l'oeil nu.
 
-# En conclusion, le code marche très bien, le drone peut au moins rester stable pendant 10 min au vol avec une batterie, il n'y a pas besoin de compléter le code à moins pour des projets plus précis.
+# En conclusion,
+le code marche très bien, le drone peut au moins rester stable pendant 10 min au vol avec une batterie, il n'y a pas besoin de compléter le code à moins pour des projets plus précis.
