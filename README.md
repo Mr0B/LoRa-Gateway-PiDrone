@@ -21,7 +21,7 @@ Le projet que nous réalisons est un Drone pouvant se déplacer automatiquement 
 
 # Résumé du projet:
 
-Le drone utilise des capteurs pointés vers le bas (probablement infrarouge) permettant d'évaluer la distance depuis le sol, il se pose automatiquement si le pourcentage de batterie est trop faible et se lève si un élement vient gêner en dessous.
+Le drone utilise des capteurs infrarouge pointés vers le bas permettant d'évaluer la distance depuis le sol, il se pose automatiquement si le pourcentage de batterie est trop faible et se lève si un élement vient gêner en dessous.
 Et enfin, grâce aux capteurs, le drone essaye de se stabiliser toujours à la même position, même si on le fait bouger pendant qu'il vole, mais les capteurs fonctionnent réellement que quand le drone a terminé son décollage, soit environ à 20 cm du sol.
 La caméra n'est pas utilisée pour ce projet.
 
