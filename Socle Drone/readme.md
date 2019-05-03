@@ -17,10 +17,10 @@ Wireless Charging Module 5V/1A-DFRobot (https://www.dfrobot.com/product-1284.htm
  ### Etape  3:
  Nous avons reçu le drone, et nous avons commencé à réfléchir au câblage et à comment adapter les 4 pins utiliser par le drone pour la recharge avec le module de charge sans fil, et avec la gateway.
  
- ## Etape 4:
+ ### Etape 4:
  La modélisation 3D du socle passa par plusieurs étapes, il y a eu un soucis lié au proportion pour designer la pièce, et j'ai ensuite choisi de  remplacé les tunnels pour les cables par des gouttière nous donnant alors un accès plus façile au câble. Puis nous l'avons imprimer sur l'imprimante 3D.
  
- ## Etape 5:
+ ### Etape 5:
  Plusieurs difficultés sont apparus pour la cablage, ma première idée était de retirer le module caméra pour câbler dans l'espace que ça aurait laisser, mais retirer ce module est impossible sans le découper. Nous avons donc réfléchi sur comment creuser la coque pour faire passer les câbles sans géné tout le reste. (
 
 
