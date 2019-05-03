@@ -32,7 +32,7 @@ Pour faciliter l'accès  au câble j'ai décidé de passer d'un tunnel à une go
 Un dernier problème est apparu car la pièce faisait réagir le drone qui la considère comme un obstacle.
 Avec plus de temps nous aurions fais les cablages pour combiner les 3 modules (Gateway/Drone/Recharge), (voir Etape 5).
 
-# IV-Possible dévellopement:
+# IV-Possible dévelopement:
 
 Sur le cours terme, il faudrait reimprimer le socle de tel sorte à ce qu'il ne soit pas considérer comme un obstacle.
 Ainsi que de faire les branchements, creuser deux trou assez fin dans le dessous du drone.
