@@ -47,7 +47,7 @@ Nous avons tester le drône ainsi que sa configuration par Python (choisi par De
 J'ai finaliser le design de la pièce pour l'imprimer en 3D, j'ai ensuite vérifier qu'elle puisse acceuillir la borne de recharge.
 
 # 25/04:
-VNous avons vérifier l'avancement du projet avec le groupe, puis avec Denis nous avons tester les commandes prédéfinis du drone et leur comportement.
+Nous avons vérifier l'avancement du projet avec le groupe, puis avec Denis nous avons tester les commandes prédéfinis du drone et leur comportement.
 
 # 26/04 COURS:
 J'ai travailler sur la charge sans fil, tester électriquement les diiférents modules, celui de test fournis par le prof fonctionne, ainsi que celui nécessaire pour le drone. j'ai ensuite conseillé les autres sur leurs parties.
