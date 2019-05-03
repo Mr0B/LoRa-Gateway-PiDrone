@@ -21,5 +21,13 @@ Le projet que nous réalisons est un Drone pouvant se déplacer automatiquement 
 
 # Résumé du projet:
 
-Le drone possédant déjà un kit de developpement (SDK), le code écrit en langage python permet alors d'éxecuter simplement une liste de commandes du SDK dans un fichier .txt à partir d'un terminal sur Mac. Le langage Python est utilisé pour la communication wifi avec le drone.
-La carte ESP32 est utilisé comme une Gateway LoRa ce qui permettra pour d'autres projets la communication en LoRa.
+Le drone utilise des capteurs pointés vers le bas (probablement infrarouge) permettant d'évaluer la distance depuis le sol, il se pose automatiquement si le pourcentage de batterie est trop faible et se lève si un élement vient gêner en dessous.
+Et enfin, grâce aux capteurs, le drone essaye de se stabiliser toujours à la même position, même si on le fait bouger pendant qu'il vole, mais les capteurs fonctionnent réellement que quand le drone a terminé son décollage, soit environ à 20 cm du sol.
+La caméra n'est pas utilisée pour ce projet.
+
+Le drone possédant déjà un kit de developpement (SDK), le code écrit en langage python permet alors la communication avec le drone depuis l'ordinateur simplement avec une liste de commandes du SDK dans un fichier .txt, le terminal (sur mac) est utilisé pour éxecuter le code et débuter la communication des commandes. Biensur, tout cela est impossible si l'ordinateur n'est pas connecté à la wifi du drone.
+Le terminal va afficher les commandes utilisés et reçus par le drone, toutes les erreurs (si il y en a) et pourra également montrer le pourcentage de batterie par exemple.
+
+La carte ESP32 est utilisé comme une Gateway LoRa ce qui permettra pour d'autres projets d'utiliser le protocole de communication LoRA. Elle doit pouvoir voler avec le drone et alimentée depuis la même batterie.
+
+Et enfin, pour la recharge sans fil, le drone doit pouvoir se recharger automatiquement avec du 5V pour 1A tout en se posant voir même en étant légerement au dessus. Une partie doit être directement relié à la batterie du drone et pouvoir s'alimenter avec la deuxième partie posé sur le socle imprimé au sol.
